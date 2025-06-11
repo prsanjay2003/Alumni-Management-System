@@ -11,7 +11,7 @@
 
 ### **Step 3: Set Up the Database**
 1. Open **phpMyAdmin** in your browser: `http://localhost/phpmyadmin`.
-2. Click **New** to create a new database (e.g., `alumni_db`).
+2. Click **New** to create a new database (e.g., `alumini`).
 3. Import the provided **SQL file** from GitHub:
    - Select the **Import** tab.
    - Choose the `.sql` file from the project folder.
@@ -24,7 +24,7 @@
    $servername = "localhost";
    $username = "root"; // Default username in XAMPP
    $password = ""; // Default password is empty
-   $dbname = "alumni_db";
+   $dbname = "alumini";
    ```
 3. Save the file.
 
